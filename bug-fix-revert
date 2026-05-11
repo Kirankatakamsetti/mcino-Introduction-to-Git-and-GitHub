@@ -1,0 +1,11 @@
+curl https://api.github.com/repos/YOURUSERNAME/mcino-Introduction-to-Git-and-GitHub/pulls
+
+"head": {
+  "ref": "bug-fix-revert"
+},
+"base": {
+  "ref": "main"
+},
+"repo": {
+  "fork": true
+}
